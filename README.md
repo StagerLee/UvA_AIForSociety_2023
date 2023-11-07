@@ -1,6 +1,6 @@
 # UvA AI for Society
 
-This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2023. 
+This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2023/2024. 
 
 ## (draft) Weekly Topics and Assignments
 
