@@ -1,36 +1,25 @@
-### Due Date: ###
-23 Jan 2024 at 12:00
+## Readings-2
 
-### These guidelines are the same for all weekly assignments, we report them each time for your convenience. ###
-
-Please upload your work as a .zip file. Your upload must include:
-```
-a folder with code and data
-a single Jupyter notebook fully run and exported as html 
-the report (max 2 pages excluding references) as pdf
-```
-
-### Guidelines ###
-This assignment is group work: how to divide your work is up to you. Nevertheless, some parts require that all do individual work too (e.g., readings). It is particularly important you discuss your ideas and results within your group.
-
-### You are expected to: ###
-```
-- Carefully read and follow the assignment guidelines (see the course repositoryLinks to an external site.).
-Use laboratory time to work and discuss together. Some laboratories might include presentations and discussion with the whole class.
-Submit a folder including all the code and data you have developed and used for the assignment. Your starting point is the assignment folder in the course repository.
-- Submit one single Jupyter notebook with your main results, as an html file. All the cells must be executed before exporting to html. Your code should contain appropriate comments and markdown cells with an explanation of what you are doing.
-- Submit a report summarising your main findings and critical reflections, as a pdf file. The report must be maximum 2 pages long, excluding references. Please use the provided LaTeX template Download provided LaTeX template. Each report must include: a title, your names and group ID, short abstract, individual contributions (e.g., "John Brown developed the descriptive analysis and proof-read the report").
-- All submission materials must be put into one single zip file for submission. Submissions in other formats won't be accepted.
-- The deadline for submissions is the start of the subsequent week's lecture.
-```
-### Rubric for assessment ###
-- 50% analysis (including implementation and critical reflection on results, as well as the quality of code, comments and documentation)
-- 30% report (including quality of presentation)
-- 10% participation during the laboratory session
-Each assignment weighs for 20% of your final grade, and is scored on a 10-point scale.
+More references are also given in the slides, where applicable.
 
 
-### Code of conduct ###
-You are expected to do your work independently. Keep in mind we will run plagiarism detection. Please carefully cite your sources (including if you borrow substantial sections of code, e.g., from StackOverflow).
+Main references:
 
-If you incur in any issue, e.g., because some group members become unresponsive or do not do what is expected of them, please contact us. Individual grades might be adjusted accordingly.
+
+Shneiderman, B., 2020. Human-centered artificial intelligence: Three fresh ideas. AIS Transactions on Human-Computer Interaction, 12(3), pp.109-124. 
+Liao, Q.V., Gruen, D. and Miller, S., 2020, April. Questioning the AI: informing design practices for explainable AI user experiences. In Proceedings of the 2020 CHI conference on human factors in computing systems (pp. 1-15).
+
+
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P.N., Inkpen, K. and Teevan, J., 2019, May. Guidelines for human-AI interaction. In Proceedings of the 2019 chi conference on human factors in computing systems (pp. 1-13).
+
+
+Clayton, E.W., Chen, Y., Novak, L.L., Anders, S. and Malin, B., 2023. Human-Centered Design to Address Biases in Artificial Intelligence. Journal of Medical Internet Research, pp.doi-10.
+Additional resources:
+
+Nationale ombudsman, The citizen is not a dataset: Vision on the appropriate use of data and algorithms by public sector authorities, https://www.nationaleombudsman.nl/system/files/onderzoek/Rapport%20-%20The%20citizen%20is%20not%20a%20dataset.pdfLinks to an external site.
+
+
+Sokol, K. and Flach, P., 2020, January. Explainability fact sheets: A framework for systematic assessment of explainable approaches. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 56-67).
+
+
+Konstantinova O., Explainable AI (XAI): The Easy Guide for Beginners, https://medium.com/@okonstantinova/explainable-ai-xai-the-easy-guide-for-beginners-41e0753e03a7Links to an external site.
