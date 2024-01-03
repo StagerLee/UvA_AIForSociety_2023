@@ -2,7 +2,7 @@
 
 This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2023/2024. 
 
-## (draft) Weekly Topics and Assignments
+## Weekly Topics and Assignments
 
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
