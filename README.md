@@ -8,7 +8,7 @@ This repository contains the code, lectures and assignmennts for the course: *AI
 | ------------- |-------------| -----:|
 | 1      | Fairness and Bias | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/blob/main/Week_1/Assignment/Machine%20Bias.ipynb) |
 | 2      | Human-AI Interaction | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/tree/main/Week_2/assignment) |
-| 3      | AI & Social Media | *link* |
+| 3      | AI & Social Media | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/blob/main/Week_3/AI4S_assignment3_imaginaries_AI.ipynb) |
 | 4      | AI for Cultural Analysis | Essay (canvas) |
 
 
